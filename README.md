@@ -1,4 +1,4 @@
-slock - suckless dispaly locker
+slock - suckless display locker
 ============================
 
 List of patches that I use in my build:
