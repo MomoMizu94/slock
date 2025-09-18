@@ -1,0 +1,12 @@
+patches/
+config.h
+config.def.h.orig
+config.def.h.rej
+config.mk.orig
+config.mk.rej
+explicit_bzero.o
+slock
+slock.c.orig
+slock.c.rej
+slock.o
+util.o
